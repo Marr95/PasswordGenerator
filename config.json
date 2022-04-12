@@ -1,0 +1,6 @@
+{
+    "char" : true,
+    "nummers" : true,
+    "specialeTekens" : true,
+    "hoofdLetters" : true
+}
